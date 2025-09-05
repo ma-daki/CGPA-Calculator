@@ -11,11 +11,11 @@ function Icon({ icon, url }) {
 function Footer() {
     return (
         <footer className='text-center bg-gray-900 w-full py-3 text-white '>
-            Built by @Josh596
+            cloned by <br></br> CodeWithMadaki
             <div className='flex justify-center gap-3 mt-2'>
-                <Icon icon={<BsTwitter size={18} />} url={'https://twitter.com/olujosh596'} />
-                <Icon icon={<BsGithub size={18} />} url={'https://github.com/Josh596'} />
-                <Icon icon={<BsLinkedin size={18} />} url={'https://www.linkedin.com/in/joshua-olukotun-a371761b2/'} />
+                <Icon icon={<BsTwitter size={18} />} url={'https://twitter.com/madaks9'} />
+                <Icon icon={<BsGithub size={18} />} url={'https://github.com/ma-daki'} />
+                <Icon icon={<BsLinkedin size={18} />} url={'https://www.linkedin.com/in/shepherd-yusuf-madaki-65379b282/'} />
 
             </div>
             <div>

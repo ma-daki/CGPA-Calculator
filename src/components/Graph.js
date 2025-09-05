@@ -72,13 +72,13 @@ function Graph({ semesters }) {
             {
                 label: 'GPA per semester',
                 data: gpa_per_semester,
-                borderColor: 'rgb(255, 99, 132)',
+                borderColor: 'rgb(148, 2, 31)',
                 
             },
             {
                 label: 'CGPA at every semester',
                 data: cgpa_at_semester,
-                borderColor: 'rgb(53, 162, 235)',
+                borderColor: 'rgb(38, 3, 103)',
             }
         ]
     }

@@ -1,12 +1,17 @@
 th {
-    color: rgb(31,113,114);
+    color: rgb(37, 31, 114);
     text-align: left;
 }
 
 .add-course {
-    background-color: rgb(3,103,100);
+    background-color: rgb(38, 3, 103);
+}
+.add-course:hover{
+    background-color: transparent;
+    border: 2px solid rgb(38, 3, 103);
+    color: rgb(38, 3, 103);
 }
 
 .clear-all {
-    background-color: rgb(214,34,70);
+    background-color: rgb(148, 2, 31);
 }
